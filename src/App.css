@@ -1,0 +1,48 @@
+#root {
+  margin-top: 0;
+  padding: 0;
+  box-sizing: border-box;
+    
+}
+
+table {
+ margin: auto;
+ font-size: x-large;
+ border-collapse: collapse;
+}
+
+h1 {
+background-color: black;
+color: white;
+width: 100vw;
+padding: 25px;
+margin: 0;
+text-align: center;
+
+}
+input {
+  width: 30vw;
+  margin-top: 30px;
+  
+}
+th {
+  padding: 8px 16px;
+  border-bottom: 5px solid #000000;
+}
+td {
+  padding: 8px 16px;
+  border-bottom: 1px solid #000000;
+}
+.date-cell {
+  width: 25%;
+  text-align: center;
+}
+.desc-cell {
+  width: 40%;
+  text-align: center;
+}
+button {
+  margin-left: 20px;
+  
+  
+}
